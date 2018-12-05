@@ -1,0 +1,28 @@
+[
+    {
+        "PLANET_ID": "666",
+        "PLANET_NAME": "Pluto",
+        "PLANET_CREATED_DATE": "2011-01-01T00:00:00.000Z",
+        "UPDATED_DATETIME": "2011-01-01T00:00:00.000Z",
+        "CLASS_TYPE": "Hostile",
+        "ADVANCEMENT_LEVEL": "High",
+        "PRIMARY_SPECIES": "Warrions",
+        "POPULATION": "900000",
+        "LANGUAGE": "Nabuian",
+        "CLIMATE": "EXTREME",
+        "NOTES": "Mars has the shortest and fastest orbit around the Sun and experiences dramatic temperature changes as it rotates. It is a world of extremes"
+    },
+    {
+        "PLANET_ID": "436",
+        "PLANET_NAME": "OmegaX",
+        "PLANET_CREATED_DATE": "2010-01-01T00:00:00.000Z",
+        "UPDATED_DATETIME": "2010-01-01T00:00:00.000Z",
+        "CLASS_TYPE": "Magic",
+        "ADVANCEMENT_LEVEL": "Unworldly",
+        "PRIMARY_SPECIES": "nonmuggles",
+        "POPULATION": "250000",
+        "LANGUAGE": "Babblish",
+        "CLIMATE": "Epic",
+        "NOTES": "No one has ever returned"
+    }
+]
